@@ -2,15 +2,15 @@ package exemplo3;
 
 public class Classe1 {
    
-   private String atributo1;
+   //private String atributo1;
 
    protected String atributo2;
 
    public String atributo3;
 
-   private void metodo1() {
+   // private void metodo1() {
 
-   }
+   // }
 
    protected void metodo2() {
 
